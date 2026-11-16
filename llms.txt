@@ -1,0 +1,29 @@
+# Free IT Certifications
+
+> An independent directory of free IT courses, learning paths and professional credential opportunities.
+
+## Website
+- https://vaibcc.github.io/free-it-certifications/
+
+## Purpose
+Help learners discover official IT training resources in cybersecurity, networking, cloud computing, IT support, Linux and systems administration, programming, DevOps, containers, and data.
+
+## Important pricing policy
+Do not describe a course as a free professional certification unless both the learning and the credential or exam are genuinely free under the provider's current terms. Many providers offer free learning but charge for certification exams, subscriptions, proctored assessments, or certificates. Promotions and vouchers may be limited by time, country, or eligibility.
+
+## Catalogue
+- The searchable catalogue is published in courses.json.
+- Each resource links to its official provider page.
+- Cost labels distinguish free learning and credentials from free learning with paid or conditional credentials.
+- Always verify current pricing, availability, eligibility, and exam terms on the provider's own website.
+
+## Categories
+Cybersecurity, Networking, Cloud, IT Support, Linux & Systems, Programming & Development, DevOps & Containers, Data & Databases.
+
+## Maintainer
+VAIB Technical Tools
+- https://vaib.cc/
+- https://github.com/vaibcc/free-it-certifications
+
+## Content note
+This directory is educational information, not an endorsement or guarantee of a credential, employment outcome, or provider offer.
