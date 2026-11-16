@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaibcc.github.io/free-it-certifications/sitemap.xml
